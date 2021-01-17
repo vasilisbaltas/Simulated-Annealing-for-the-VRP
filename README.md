@@ -6,3 +6,4 @@ And to do so, I tried to minimize the objective function which was the reindeers
 resembles an older Kaggle problem.
 
 I have implemented a random search algorithm, as well as the Simulated Annealing metaheuristic combined with two different neighborhood moves.
+This work was conducted in the context of my Master's degree module of Mathematical Programming and Optimization
